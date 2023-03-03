@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/Jenkinsfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/src/main/java/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/src/test/java/CalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/src/test/java/CalculatorTestThorough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/target/classes/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/target/test-classes/CalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsCalculator/target/test-classes/CalculatorTestThorough.class" beforeDir="false" />
-    </list>
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +37,7 @@
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.CalculatorTestThorough">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JenkinsCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -87,8 +68,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTestThorough" />
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
     </recent_temporary>
