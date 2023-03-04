@@ -51,7 +51,6 @@ class Calculator {
         }
         return fibonacci[n - 1];
     }
-//empty comment
 
     /*
     Returns binary value of the given int number
