@@ -49,7 +49,7 @@ class Calculator {
         for (int i = 2; i < n; ++i) {
             fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
         }
-        return fibonacci[n];
+        return fibonacci[n - 1];
     }
 
     /*
