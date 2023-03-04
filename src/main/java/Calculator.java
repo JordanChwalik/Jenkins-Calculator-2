@@ -82,7 +82,5 @@ class Calculator {
         return uniqueID.toString();
     }
 
-    //Empty comment
-
 
 }
