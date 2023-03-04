@@ -73,7 +73,7 @@ class Calculator {
     if you run this function twice with the same String input, it must return 2 unique String IDs
      */
     String createUniqueID(String n){
-        StringBuilder uniqueID = new StringBuilder("CS204");
+        StringBuilder uniqueID = new StringBuilder(n);
         Random random = new Random();
         for (int i = 0; i < 10; ++i) {
             uniqueID.append(random.nextInt());
